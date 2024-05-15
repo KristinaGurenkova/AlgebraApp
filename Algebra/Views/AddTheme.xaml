@@ -9,7 +9,7 @@
     <Grid Background="Beige" Margin="0,0,0,-16">
         <TextBox FontSize="16" Foreground="#4D4D4D" Background="Beige" HorizontalAlignment="Left" Margin="35,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="285" x:Name="name"/>
         <TextBox FontSize="16" Foreground="#4D4D4D" Background="Beige" HorizontalAlignment="Left" Margin="35,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="740" Name="content" Height="200"/>
-        <Button Foreground="White" Background="#f0802b" Content="Добавить тему" Margin="291,389,291,46"  Width="218" Height="45" FontWeight="Bold" x:Name="AddBt" Click="AddBt_Click" RenderTransformOrigin="0.523,-0.111" FontSize="14">
+        <Button Foreground="White" Background="#f0802b" Content="Добавить тему" Margin="291,389,290,46"  Width="218" Height="45" FontWeight="Bold" x:Name="AddBt" Click="AddBt_Click" RenderTransformOrigin="0.523,-0.111" FontSize="14">
             <Button.Resources>
                 <Style TargetType="Border">
                     <Setter Property="CornerRadius" Value="10"/>

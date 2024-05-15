@@ -7,7 +7,6 @@
         mc:Ignorable="d"
         Title="Алгебра" Height="400" Width="400" ResizeMode="NoResize">
     <Grid Background="Beige">
-
         <DataGrid GridLinesVisibility="None" Margin="10,0,25,10" Height="374" VerticalAlignment="Bottom" Background="Beige" x:Name="listThemeDG" AutoGenerateColumns="True" FontSize="25">
         </DataGrid>
         <Label Content="Таблица квадратов" HorizontalAlignment="Center" VerticalAlignment="Top" Width="800" FontSize="25" Background="#f0802b" Foreground="White" Height="44" HorizontalContentAlignment="Center"/>

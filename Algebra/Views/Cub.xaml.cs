@@ -29,13 +29,13 @@ namespace Algebra.Views
 		}
 		public void TableCub()
 		{
-			string query = "SELECT number,result FROM tableCub ";
+			string query = "SELECT number,result FROM tableSquares";
 			SQLiteConnection connection = new SQLiteConnection("Data Source=algebra.db");
 			connection.Open();
 			SQLiteCommand command = new SQLiteCommand(query, connection);
 			command.ExecuteNonQuery();
 			SQLiteDataAdapter data = new SQLiteDataAdapter(command);
-			DataTable dt = new DataTable("Theme");
+			DataTable dt = new DataTable("tableSquares");
 			data.Fill(dt);
 			listThemeDG.ItemsSource = dt.DefaultView;
 			data.Update(dt);

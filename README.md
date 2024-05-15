@@ -27,8 +27,8 @@
 ## Главная страница
 </br> </br> </br>
 
-![Просмотр темы, выбранной из списка](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/Theme.png)
-## Просмотр темы.
+![Просмотр темы](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/Theme.png)
+## Просмотр темы
 </br> </br> </br>
 
 ![Добавление данных](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/AddWindow.png)

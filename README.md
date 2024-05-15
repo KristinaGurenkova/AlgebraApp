@@ -23,22 +23,26 @@
 
 # Скриншоты приложения:
 
-![Главная страница](https://github.com/KristinaGurenkova/AlgebraApp/tree/main/Screenshots/MainWindow.png)
+![Главная страница](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/MainWindow.png)
 ## Главная страница
 </br> </br> </br>
 
-![Просмотр темы, выбранной из списка]()
-## Просмотр темы, выбранной из списка
+![Просмотр темы, выбранной из списка](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/Theme.png)
+## Просмотр темы.
 </br> </br> </br>
 
-![Добавление данных]()
+![Добавление данных](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/AddWindow.png)
 ## Добавление данных
 </br> </br> </br>
 
-![Калькулятор по закону Ома]()
-## Калькулятор по закону Ома
+![Решение уравнения через дискриминант](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/result1.png)
+## Решение уравнения через дискриминант
 </br> </br> </br>
 
-![Перевод единиц силы тока]()
-## Перевод единиц силы тока
+![Решение уравнения через теорему Виета](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/result2.png)
+## Решение уравнения через теорему Виета
+</br> </br> </br>
+
+![Таблица квадратов](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/table.png)
+## Таблица квадратов
 </br> </br> </br>

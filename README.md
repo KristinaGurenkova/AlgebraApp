@@ -23,7 +23,7 @@
 
 # Скриншоты приложения:
 
-![Главная страница]()
+![Главная страница](https://github.com/KristinaGurenkova/AlgebraApp/tree/main/Screenshots/MainWindow.png)
 ## Главная страница
 </br> </br> </br>
 

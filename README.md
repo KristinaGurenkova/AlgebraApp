@@ -25,7 +25,7 @@
 
 ![Главная страница](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/MainWindow.png)
 </br>
-Главная страница
+<p align="center">Главная страница</p>
 </br> </br> </br>
 
 ![Просмотр темы](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/Theme.png)

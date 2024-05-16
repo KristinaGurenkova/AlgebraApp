@@ -29,22 +29,32 @@
 </br> </br> </br>
 </p>
 
-![Просмотр темы](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/Theme.png)
-## Просмотр темы
+<p align="center">
+  <img <img src="https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/Theme.png">
+</br>Просмотр темы
 </br> </br> </br>
+</p>
 
-![Добавление данных](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/AddWindow.png)
-## Добавление данных
+<p align="center">
+  <img <img src="https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/AddWindow.png">
+</br>Добавление данных
 </br> </br> </br>
+</p>
 
-![Решение уравнения через дискриминант](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/result1.png)
-## Решение уравнения через дискриминант
+<p align="center">
+  <img <img src="https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/result1.png">
+</br>Решение уравнения через дискриминант
 </br> </br> </br>
+</p>
 
-![Решение уравнения через теорему Виета](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/result2.png)
-## Решение уравнения через теорему Виета
+<p align="center">
+  <img <img src="https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/result2.png">
+</br>Решение уравнения через теорему Виета
 </br> </br> </br>
+</p>
 
-![Таблица квадратов](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/table.png)
-## Таблица квадратов
+<p align="center">
+  <img <img src="https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/table.png">
+</br>Таблица квадратов
 </br> </br> </br>
+</p>

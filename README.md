@@ -24,7 +24,7 @@
 # Скриншоты приложения:
 
 ![Главная страница](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/MainWindow.png)
-</br> </br> </br>
+</br>
 Главная страница
 </br> </br> </br>
 

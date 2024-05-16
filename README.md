@@ -23,10 +23,11 @@
 
 # Скриншоты приложения:
 
-![Главная страница](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/MainWindow.png)
-</br>
-<p align="center">Главная страница</p>
+<p align="center">
+  <img <img src="https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/MainWindow.png">
+</br>Главная страница
 </br> </br> </br>
+</p>
 
 ![Просмотр темы](https://github.com/KristinaGurenkova/AlgebraApp/blob/main/Screenshots/Theme.png)
 ## Просмотр темы
